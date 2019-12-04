@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-test/static/css/main.4a95ceb9.chunk.css",
-    "main.js": "/react-test/static/js/main.b03498cc.chunk.js",
-    "main.js.map": "/react-test/static/js/main.b03498cc.chunk.js.map",
+    "main.js": "/react-test/static/js/main.36da205f.chunk.js",
+    "main.js.map": "/react-test/static/js/main.36da205f.chunk.js.map",
     "runtime~main.js": "/react-test/static/js/runtime~main.11c3bdac.js",
     "runtime~main.js.map": "/react-test/static/js/runtime~main.11c3bdac.js.map",
     "static/js/2.0e6219ef.chunk.js": "/react-test/static/js/2.0e6219ef.chunk.js",
     "static/js/2.0e6219ef.chunk.js.map": "/react-test/static/js/2.0e6219ef.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.8040905b084c66b24f5fd4ffb27ac485.js": "/react-test/precache-manifest.8040905b084c66b24f5fd4ffb27ac485.js",
+    "precache-manifest.d9afea29c710de60278d6c1128f6779e.js": "/react-test/precache-manifest.d9afea29c710de60278d6c1128f6779e.js",
     "service-worker.js": "/react-test/service-worker.js",
     "static/css/main.4a95ceb9.chunk.css.map": "/react-test/static/css/main.4a95ceb9.chunk.css.map",
     "static/media/all.min.css": "/react-test/static/media/fa-solid-900.f14c3b2f.ttf"
